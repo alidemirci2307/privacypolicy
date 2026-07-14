@@ -382,5 +382,43 @@
       "supabase": false
     },
     "updated": "14 Temmuz 2026"
+  },
+  {
+    "name": "Unscroll: Focus & App Blocker",
+    "slug": "unscroll-focus-app-blocker",
+    "packageId": "com.unscroll.mobile",
+    "platform": "ios",
+    "developerName": "Fahreddin Sevindir",
+    "developerEmail": "fahreddinsevindir@gmail.com",
+    "playUrl": "",
+    "appStoreId": "6790760239",
+    "appStoreUrl": "",
+    "icon": "📱",
+    "services": {
+      "admob": true,
+      "facebook_audience": false,
+      "unity_ads": false,
+      "applovin": false,
+      "ironsource": false,
+      "firebase_analytics": false,
+      "firebase_crashlytics": false,
+      "amplitude": false,
+      "mixpanel": false,
+      "sentry": false,
+      "adjust": false,
+      "appsflyer": false,
+      "onesignal": false,
+      "fcm": false,
+      "firebase_auth": false,
+      "google_signin": false,
+      "apple_signin": false,
+      "facebook_login": false,
+      "play_billing": false,
+      "apple_iap": false,
+      "revenuecat": true,
+      "google_maps": false,
+      "supabase": false
+    },
+    "updated": "14 Temmuz 2026"
   }
 ]
