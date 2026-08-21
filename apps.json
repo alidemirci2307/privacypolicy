@@ -458,5 +458,43 @@
       "supabase": false
     },
     "updated": "21 Temmuz 2026"
+  },
+  {
+    "name": "Traffic Signs - Road Signs - UK",
+    "slug": "traffic-signs-road-signs-uk",
+    "packageId": "com.trafficsigns.roadsignsengland",
+    "platform": "android",
+    "developerName": "Ali Demirci",
+    "developerEmail": "alidemirci2307@gmail.com",
+    "playUrl": "https://play.google.com/store/apps/details?id=com.trafficsigns.roadsignsengland",
+    "appStoreId": "",
+    "appStoreUrl": "",
+    "icon": "🚦",
+    "services": {
+      "admob": true,
+      "facebook_audience": false,
+      "unity_ads": false,
+      "applovin": false,
+      "ironsource": false,
+      "firebase_analytics": true,
+      "firebase_crashlytics": true,
+      "amplitude": false,
+      "mixpanel": false,
+      "sentry": false,
+      "adjust": false,
+      "appsflyer": false,
+      "onesignal": true,
+      "fcm": false,
+      "firebase_auth": false,
+      "google_signin": false,
+      "apple_signin": false,
+      "facebook_login": false,
+      "play_billing": true,
+      "apple_iap": false,
+      "revenuecat": false,
+      "google_maps": false,
+      "supabase": false
+    },
+    "updated": "21 Ağustos 2026 / 21 August 2026"
   }
 ]
